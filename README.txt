@@ -6,7 +6,7 @@ To use, either compile the source or run the .exe that's already built ( Require
 
 Following this, you will be prompted to input the location of the executable (you can and should enable edit-mode by right clicking on the command prompt window so you can paste in long directory paths). 
 
-Finally, you will have the opportunity to pass in additional parameters/switches to the app. Alluding to the example in the 2nd paragraph, here is where you would pass --new-window stackoverflow.com ( or any other switch for that matter).
+Finally, you will have the opportunity to pass in additional parameters/switches to the program. Alluding to the example in the 2nd paragraph, here is where you would pass --new-window stackoverflow.com ( or any other switch for that matter).
 
 Hit enter and you should see a successfull "Done!" message. Now, you can Windows+R (or however you used to get to the run prompt), and type in the new command shortcut you created in the 1st step!
 
